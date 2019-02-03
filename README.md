@@ -14,7 +14,7 @@ Procedure:
 $ source venv370/bin/activate
 $ cd mh/mh
 
-Examples:
+(examples)
 1. sreality - fully tested
 - open Firefox, get to the search results
 - select 20, 40 or 60 results per page
