@@ -5,8 +5,8 @@ How to use the spiders in 'mh' scrapy project:
 
 Dependencies:
 - pyenv global 3.7.0; python -m venv venv370; pyenv global system; source venv370/bin/activate
-- pip install scrapy
-- pip install scrapy-fake-useragent
+- (venv370) pip install scrapy
+- (venv370) pip install scrapy-fake-useragent
 
 Procedure:
 
